@@ -1,3 +1,4 @@
 $(document).ready(function () {
-   console.log('foo');
+   console.log('the document is ready');
+   //const Mustache = require('mustache');
 });

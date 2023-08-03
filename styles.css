@@ -34,6 +34,11 @@ body::before {
     background-image: url('images/bg_2880.jpg');
   }
 }
+
+#blog_posts {
+  width: 100%;
+}
+
 body .demo-blog {
   font-family: 'Roboto', 'Helvetica', sans-serif;
 }
